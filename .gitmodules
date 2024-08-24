@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "StratPal"]
+	path = StratPal
+	url = https://github.com/mindthegap-erc/stratpal
 [submodule "admtools"]
 	path = admtools
 	url = https://github.com/mindthegap-erc/admtools
