@@ -8,3 +8,6 @@
 [submodule "admtools"]
 	path = admtools
 	url = https://github.com/mindthegap-erc/admtools
+[submodule "stratcols"]
+	path = stratcols
+	url = https://github.com/mindthegap-erc/stratcols
